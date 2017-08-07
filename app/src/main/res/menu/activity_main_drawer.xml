@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Camera" />
+        <item
+            android:id="@+id/nav_emi"
+            android:icon="@drawable/ic_monetization_on_black_24dp"
+            android:title="EMI" />
+        <item
+            android:id="@+id/nav_web"
+            android:icon="@drawable/web"
+            android:title="WebView" />
+
+
+
+    </group>
+
+</menu>
